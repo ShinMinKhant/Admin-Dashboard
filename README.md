@@ -1,5 +1,5 @@
 # Admin-Dashboard
-Admin Dashboard UI (Bootstrap)
+Admin Dashboard UI
 
 A responsive web page crafted with Bootstrap
 
